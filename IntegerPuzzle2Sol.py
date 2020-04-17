@@ -14,3 +14,6 @@ if number_1 % 2 == 0:
 elif number_1 % 2 == 1:
     print("***********Weird**************")
 print("********************************")
+print("#####################################")
+
+# https://github.com/lokesh2009/PythonLearning
